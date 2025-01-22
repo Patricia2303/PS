@@ -1,0 +1,3 @@
+[console_scripts]
+lab = pachet.main:main
+
